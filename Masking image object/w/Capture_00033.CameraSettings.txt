@@ -1,0 +1,33 @@
+[ZWO ASI120MM]
+Pan=0
+Tilt=0
+Output Format=SER file (*.ser)
+Binning=1
+Capture Area=1280x960
+Colour Space=MONO16
+Temperature=32.7
+Discard Split Frames=Off
+High Speed Mode=Off
+Turbo USB=80
+Flip=None
+Frame Rate Limit=Maximum
+Gain=0
+Exposure=0.00544
+Timestamp Frames=Off
+Brightness=0
+Auto Exp Max Gain=50
+Auto Exp Max Exp M S=30000
+Auto Exp Target Brightness=100
+Banding Threshold=35
+Banding Suppression=0
+Apply Flat=None
+Subtract Dark=None
+#Black Point
+Display Black Point=0
+#MidTone Point
+Display MidTone Point=0.473757497857755
+#White Point
+Display White Point=0.986111111111111
+Notes=
+TimeStamp=2021-10-04T11:03:10.9563407Z
+SharpCapVersion=3.2.6482.0
