@@ -29,5 +29,11 @@ Next, we utilize OpenCV and Mathplotlib to obtain the brightness values of each 
 </br>
 
 <p align="center">
-  <img src="https://github.com/6amir6hosein6/Measuring-Sunlight-Intensity-for-Atmospheric-Analysis/blob/main/Plot.jpg" width="50%">
+  <img src="https://github.com/6amir6hosein6/Measuring-Sunlight-Intensity-for-Atmospheric-Analysis/blob/main/Plot.jpg" width="70%">
+</p>
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/6amir6hosein6/Measuring-Sunlight-Intensity-for-Atmospheric-Analysis/blob/main/Plot2.jpg" width="70%">
 </p>
